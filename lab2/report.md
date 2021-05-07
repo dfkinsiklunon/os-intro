@@ -122,7 +122,11 @@ git push --tags
 
 Создадим релиз на github.
 
-
+![](image/05.jpg) 
+![](image/06.jpg)
+![](image/07.png) 
+![](image/08.png)
+![](image/09.jpg) 
 
 
 
