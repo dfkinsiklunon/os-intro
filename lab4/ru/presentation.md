@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Structural approach to the deep learning method
+title: Лаборатонная Работа № 4
 author: |
 	Адоле Фейт
 institute: |
