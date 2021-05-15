@@ -147,7 +147,7 @@ mkdir, rmdir, rm. Поясните основные опции этих кома
 
 7. Команда history
 
-![команда history](image/7.jpg)
+![команда history](image/0.21.jpg)
 
 
 # Выводы
